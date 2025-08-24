@@ -10,7 +10,7 @@ pip install yt-dlp rich
 pkg install git
 git clone https://github.com/Cpmhaoproject/YouTubemp3_dowload.git
 cd YouTubemp3_dowload
-python YouTubemp3_dowload.py
+python YouTubemp3下载_en.py
 ```
 # 📡 Connect with Us
 
